@@ -12,6 +12,7 @@ I'm currently working on a Boundary Element program written in Julia to study dy
 ### Skills
 
 ![Julia](https://img.shields.io/badge/julia-1d1e23?style=for-the-badge&logo=julia&logoColor=9159a2)
+![Javascript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
